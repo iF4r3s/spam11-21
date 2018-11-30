@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot11 = new Discord.Client();
-const bot11 = new Discord.Client();
+const bot12 = new Discord.Client();
 const bot13 = new Discord.Client();
 const bot14 = new Discord.Client();
 const bot15 = new Discord.Client();
